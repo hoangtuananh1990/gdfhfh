@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://bit.ly/2Dmspbk' target='_blank'><img src='http://thanhphophucan.com/wp-content/uploads/image/27545587_386548505105642_3405445071943127714_n.jpg' width='500px'/><br/>13 Hãy đăng ký ngay</a>. Nhận quà liền tay. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://bit.ly/2kVCghv' target='_blank'><img src='http://tapdoantrananh.com/wp-content/uploads/2017/10/bella-vista.jpg' width='500px'/><br/>13 Dự án Bella Vista</a>. Vị trí đắc địa, tiện ích vượt trội. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
